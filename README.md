@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @R3iwan
 - 👀 I’m interested in Reading, Gym, Listening to Music, 
-- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
 <!---
