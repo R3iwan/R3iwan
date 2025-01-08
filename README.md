@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakhat
-- 💻 Stack: Go,Python/React. Mainly focus on Backend Go Development
+- 💻 Stack: Go,Python. Mainly focus on Backend Go Development
 - 👀 I’m interested in Reading, Gym, Music, Anime, Films.
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
