@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakhat
-- 💻 Stack: Go,Python,Data Analysis. Right Now Working As Data Analysis
+- 💻 Stack: Go,Python.
 - 👀 I’m interested in Reading, Gym, Music, Anime, Films.
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
