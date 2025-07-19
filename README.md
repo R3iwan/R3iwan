@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakhat
-- 💻 Stack: Go,Python.
+- 💻 Job: Machine Learning Engineer.
 - 👀 I’m interested in Reading, Gym, Music, Anime, Films.
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
