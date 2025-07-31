@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakhat
-- 💻 Job: Machine Learning Engineer.
+- 💻 Job: Machine Learning Engineer / Data Scientist.
 - 👀 I’m interested in Reading, Gym, Music, Anime, Films.
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
