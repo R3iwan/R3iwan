@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakhat
-- 💻 Job: Python Developer / ML Engineer
+- 💻 Job: Golang Developer / Python Developer / Backend Engineer
 - 👀 I’m interested in Reading, Gym, Music, Anime, Films.
 - 📫 How to reach me [...](https://www.instagram.com/rakhinator/)
 
